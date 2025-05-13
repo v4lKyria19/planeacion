@@ -7,6 +7,6 @@
 ## Integrantes
  
 - **Johan Sebastian Fontecha Soler** — *20191578026*
-- **Luis Sebastian Martinez Guerrero** — * 20191005153*
+- **Luis Sebastian Martinez Guerrero** — *20191005153*
 - **Santiago Avila Gómez** — *20201020065* 
 - **Luis Miguel Polo** — *20182020158*
